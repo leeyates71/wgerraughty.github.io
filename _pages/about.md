@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# About Me
-
 ![My Portrait](/assets/portrait.jpg)
 
 ### Who Am I?
