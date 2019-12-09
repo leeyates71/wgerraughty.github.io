@@ -4,7 +4,7 @@ title: "Software Design and Engineering"
 ---
 
 ## Project Link
-[Artifact 1 Project](https://github.com/wgerraughty/wgerraughty.github.io/tree/master/_projects/markov-chain){: .btn .btn--primary}
+[Artifact 1 Project](https://github.com/wgerraughty/wgerraughty.github.io/tree/master/_projects/markov-chain){:target="_blank" .btn .btn--primary}
 
 ## Narrative
 
