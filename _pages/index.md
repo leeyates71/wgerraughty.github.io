@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home
+title: "Home"
 ---
 
 My name is William Gerraughty, and this is my ePortfolio for SNHU's CS499 course.
