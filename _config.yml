@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ePortfolio project for CS499 at SNHU by William Gerraughty
 twitter_username: 
 github_username: wgerraughty
+linkedin_username: wgerraughty
 minimal_mistakes_skin: dark
 search: false
 
@@ -65,6 +66,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wgerraughty"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/wgerraughty"
 
 defaults:
   # _posts
