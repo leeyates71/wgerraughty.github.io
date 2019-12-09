@@ -57,9 +57,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "William Gerraughty"
-  avatar : "/assets/images/portrait.jpg"
-  bio    : "Undergraduate Senior at Southern New Hampshire University"
+  name     : "William Gerraughty"
+  avatar   : "/assets/images/portrait.jpg"
+  bio      : "Undergraduate Senior at Southern New Hampshire University"
+  location : "New Hampshire, United States"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
