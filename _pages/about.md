@@ -3,12 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-![My Portrait](/assets/portrait.jpg)
+![My Portrait](/assets/images/portrait.jpg)
 
 ### Who Am I?
 My name is William Gerraughty, and I am in my last two terms at SNHU for my bachelor’s degree in Computer Science. I have been in this program for a little over two years having transferred to SNHU and the online program after my freshman year. During the course of the program, I’ve learned to use different languages across a variety of topics, including databases, client/server development, and embedded systems programming. I also volunteer as a foster for Big Fluffy Dog Rescue. Currently, I am just beginning my career entering employment in the IT department of my local hospital.
 
-![Wheaty](/assets/images/Wheaties.jpg)
+![Wheaty](/assets/images/Wheaty.jpg)
 ![Momma Dog](/assets/images/Momma%20Dog.jpg)
 
 ### My Career
