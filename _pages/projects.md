@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 ---
   
-# CS499 ePortfolio Project
+## CS499 ePortfolio Project
 This website is dedicated to hosting the ePortfolio for SNHU's CS499 course. Below you will find the code review taken before the enhancements, as well as links to the enhanced projects and narratives.
 
 ## Code Review
