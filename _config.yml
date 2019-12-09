@@ -60,6 +60,13 @@ author:
   name   : "William Gerraughty"
   avatar : "/assets/images/portrait.jpg"
   bio    : "Undergraduate Senior at Southern New Hampshire University"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wgerraughty"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/wgerraughty
 
 footer:
   links:
