@@ -7,7 +7,10 @@ permalink: /projects/
 This website is dedicated to hosting the ePortfolio for SNHU's CS499 course. Below you will find the code review taken before the enhancements, as well as links to the enhanced projects and narratives.
 
 ## Code Review
-Code Review Embed Goes Here
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Artifact 1 - Software Design and Engineering
 Markov Chain  
