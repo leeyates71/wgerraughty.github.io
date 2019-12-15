@@ -9,7 +9,7 @@ This website is dedicated to hosting the ePortfolio for SNHU's CS499 course. Bel
 ## Code Review
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/thSbXpZEHtI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/thSbXpZEHtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Artifact 1 - Software Design and Engineering
